@@ -217,7 +217,7 @@ These views were later exported as CSV files and used in Power BI for dashboard 
 
 The final dashboard for this project is available in PDF format.
 
-[View Dashboard PDF](blinkit_zepto_dashboard.pdf)
+[View Dashboard PDF](Screenshots/blinkit_zepto_dashboard.pdf)
 
 ## 10. Conclusion
 This project demonstrates how SQL can be used to solve real-world inventory and stock-risk problems in a quick-commerce business model.
