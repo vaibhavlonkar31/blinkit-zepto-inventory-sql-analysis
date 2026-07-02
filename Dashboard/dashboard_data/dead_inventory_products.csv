@@ -1,0 +1,3 @@
+"product_id","product_name","category","brand","total_quantity_sold","total_revenue","avg_stock_qty","stockout_days","reorder_needed_days","total_restock_count","product_status"
+"P015","Dove Shampoo 180ml","Personal Care","Dove",42,6930.00,50.89,0,0,0,"Dead Inventory"
+"P019","Harpic Toilet Cleaner 500ml","Household","Harpic",42,4410.00,48.09,0,0,0,"Dead Inventory"

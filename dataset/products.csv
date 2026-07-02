@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,unit_price
+P001,Amul Milk 1L,Dairy,Amul,68
+P002,Mother Dairy Curd 500g,Dairy,Mother Dairy,45
+P003,Britannia Bread 400g,Bakery,Britannia,40
+P004,Harvest Brown Bread 400g,Bakery,Harvest,55
+P005,Lays Classic Salted Chips,Snacks,Lays,20
+P006,Kurkure Masala Munch,Snacks,Kurkure,20
+P007,Maggi Noodles 70g,Packaged Food,Maggi,15
+P008,Yippee Noodles 70g,Packaged Food,Yippee,15
+P009,Coca Cola 750ml,Beverages,Coca Cola,40
+P010,Pepsi 750ml,Beverages,Pepsi,40
+P011,Red Bull 250ml,Beverages,Red Bull,125
+P012,Tata Salt 1kg,Grocery,Tata,28
+P013,Aashirvaad Atta 5kg,Grocery,Aashirvaad,260
+P014,India Gate Basmati Rice 1kg,Grocery,India Gate,160
+P015,Dove Shampoo 180ml,Personal Care,Dove,165
+P016,Clinic Plus Shampoo 180ml,Personal Care,Clinic Plus,120
+P017,Colgate Toothpaste 150g,Personal Care,Colgate,95
+P018,Dettol Handwash 200ml,Household,Dettol,99
+P019,Harpic Toilet Cleaner 500ml,Household,Harpic,105
+P020,Vim Dishwash Bar 300g,Household,Vim,35
